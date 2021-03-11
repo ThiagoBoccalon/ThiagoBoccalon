@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋Hello everyone!
 
-<!--
-**ThiagoBoccalon/ThiagoBoccalon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to program and create new things, I also like reading.
+Here are some things about me:
+ - Computer Science 🎓 ;
+ - .NET 💻;
+ - Xamarin 🐒;
+ - Nerd 🤓
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 💻 Technologies & Tools
+![enter image description here](https://camo.githubusercontent.com/b7044ca56c6301b33ed3ec406b70c15dd3a06442fe4f1dba0e8abaf98386a0f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230417a7572652d3030383944363f6c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)![enter image description here](https://camo.githubusercontent.com/ff2498b4c7bd3af92908fa7200a7e0b1192c7f2bf381c5435b0750e2bb04683f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f746e65742d6e65742532333233393132302e7376673f636f6c6f723d354332443931267374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465)
+![enter image description here](https://camo.githubusercontent.com/256f498d9e3128b19f8cb5558884749179db9118aaa6e31d3f7c5da34edf5c8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332532302d2532333233393132302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465)![enter image description here](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)

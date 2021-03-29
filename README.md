@@ -1,6 +1,6 @@
 # 👋Hello everyone!
 
-I like to program and create new things, I also like reading.
+I like to program and create new things, I also like reading books.
 Here are some things about me:
  - Computer Science 🎓 ;
  - .NET 💻;

@@ -10,16 +10,7 @@ Here are some things about me:
 
 
 # 💻 Technologies & Tools
- # Welcome to StackEditsdsad!
-
-
-# 👋Hello everyone!
-I like to program and create new things, I also like reading books.
-Here are some things about me:
- - Computer Science 🎓 ;
- - .NET 💻;
- - Xamarin 🐒;
- - Nerd 🤓
+# Welcome to StackEditsdsad!
 
 
 

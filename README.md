@@ -8,8 +8,6 @@ Here are some things about me:
  - Nerd 🤓
 
 
-
-# 💻 Technologies & Tools
 # Welcome to StackEditsdsad!
 
 
